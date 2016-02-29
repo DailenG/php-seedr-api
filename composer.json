@@ -1,0 +1,13 @@
+{
+    "name": "x11/seedr",
+    "description": "",
+    "keywords": ["seedr"],
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Seedr\\": "Seedr/"
+        }
+    }
+}
