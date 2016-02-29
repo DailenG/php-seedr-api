@@ -1,5 +1,5 @@
 {
-    "name": "x11/seedr",
+    "name": "x11/seedr-api",
     "description": "",
     "keywords": ["seedr"],
     "type": "library",
